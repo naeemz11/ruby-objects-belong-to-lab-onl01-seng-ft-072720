@@ -2,7 +2,7 @@ class Author
   
   
   attr_accessor :name 
-  a
+  author = Author.new
   
   
 end 
