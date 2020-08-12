@@ -4,5 +4,6 @@ class Post
   
 post= Post.new
 
-post.author= author
+
 end
+post.author= author
