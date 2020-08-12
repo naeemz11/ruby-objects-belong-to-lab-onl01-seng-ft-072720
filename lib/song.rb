@@ -1,7 +1,7 @@
 class Song 
   
-  attr_accessor :tittle 
+  attr_accessor :title 
   
-  tittle= Song.new 
+  title= Song.new 
   
 end 
